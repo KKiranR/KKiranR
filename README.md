@@ -7,7 +7,8 @@ I'm in my Sophomore year pursuing B.Tech in the field of Electronics and Communi
 <a href=""><img alt="" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
 <a href=""><img alt="" src="	https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" /></a>
-
+<a href=""><img alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
 
 
 
