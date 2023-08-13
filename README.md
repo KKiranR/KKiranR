@@ -1,6 +1,6 @@
 # Hello , I am Kiran <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-I'm in my 3rd year pursuing B.Tech in the field of Electronics and Communication Engineering from PES University, India. A self-taught, passionate hardware developer interested in the field of Arduino, RasberryPi, ESP Node MCU. Enthusiast in using various Linux Distros and have interest in the areas of RISC V ,building SOCs. My soul thrives to make people's life better through the hardware I build.
+I'm in my final year pursuing B.Tech in the field of Electronics and Communication Engineering from PES University, India. A self-taught, passionate hardware developer interested in the field of Arduino, RasberryPi, ESP Node MCU. Enthusiast in using various Linux Distros and have interest in the areas of RISC V ,building SOCs. My soul thrives to make people's life better through the hardware I build.
 ## 👨‍💻 Languages
 
 <a href=""><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
