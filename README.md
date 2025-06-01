@@ -1,6 +1,6 @@
 # Hello , I am Kiran <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-I'm in my final year of pursuing a B.Tech. in the field of Electronics and Communication Engineering from PES University, India. A self-taught, passionate hardware developer interested in the field of VLSI. enthusiastic about using various Linux Distros and have an interest in the areas of RISC V and building SOCs. My soul thrives on making people's lives better through the hardware I build.
+RTL Design Engineer pursued B.Tech. in the field of Electronics and Communication Engineering from PES University, India. A self-taught, passionate hardware developer interested in the field of VLSI. enthusiastic about using various Linux Distros and have an interest in the areas of RISC V and building SOCs. My soul thrives on making people's lives better through the hardware I build.
 ## 👨‍💻 Languages
 
 <a href=""><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
